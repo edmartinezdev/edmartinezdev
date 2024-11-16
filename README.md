@@ -20,7 +20,7 @@ With over 10 years in software engineering, I've built mobile and web applicatio
 ## 🌟 Featured Projects
 
 - **DocuHealth EMR** - A comprehensive Electronic Medical Records system aimed at improving healthcare management.
-- **![Time to Eat App](https://apps.apple.com/ca/app/time-to-eat-app/id1359972795)** - A convenient mobile app for discovering meal prep and healthy eating solutions.
+- **[Time to Eat App](https://apps.apple.com/ca/app/time-to-eat-app/id1359972795)** - A convenient mobile app for discovering meal prep and healthy eating solutions.
   ![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?logo=app-store&logoColor=white)
 - **[HeardOnAir](https://heardonair.com/)** - A community directory built in WordPress, providing a platform for sharing live experiences and audio stories. Discover stories from around the world directly from your browser.
 
