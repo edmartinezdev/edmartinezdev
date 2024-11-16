@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello! 👋 I'm Ed Martinez
 
-<!--
-**edmartinezdev/edmartinezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With over 10 years in software engineering, I've built mobile and web applications, primarily using Swift, Ruby on Rails, Firebase, and more recently, I've been diving deeper into the React ecosystem and tools like Tailwind UI. Currently, I work on developing robust applications and seek to continuously sharpen my skills in modern web technologies.
 
-Here are some ideas to get you started:
+## 🛠️ My Skill Set
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Frameworks
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+## 🌟 Featured Projects
+
+- **DocuHealth EMR** - A comprehensive Electronic Medical Records system aimed at improving healthcare management.
+- **Personal Portfolio** - My own website to demonstrate my skills and interests, using React, Tailwind CSS, and Firebase.
+
+### 👤 About Me
+
+- 🏠 Based in Toronto, originally from El Salvador.
+- 🚗 Part-time Uber driver, getting to know Toronto one ride at a time!
+- 📚 Currently enhancing my skills with courses in generative AI and modern web frameworks.
