@@ -25,5 +25,5 @@ With over 10 years in software engineering, I've built mobile and web applicatio
 ### 👤 About Me
 
 - 🏠 Based in Toronto, originally from El Salvador.
-- 🚗 Part-time Uber driver, getting to know Toronto one ride at a time!
 - 📚 Currently enhancing my skills with courses in generative AI and modern web frameworks.
+- 🌱 Passionate about building innovative tech solutions for everyday problems.
