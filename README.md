@@ -24,8 +24,6 @@ With over 10 years in software engineering, I've built mobile and web applicatio
   ![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?logo=app-store&logoColor=white)
 - **[HeardOnAir](https://heardonair.com/)** - A community directory built in WordPress, providing a platform for sharing live experiences and audio stories. Discover stories from around the world directly from your browser.
 
-  <img src="https://path-to-screenshot-or-logo.png" alt="HeardOnAir Screenshot" width="200">
-
 
 
 ### 👤 About Me
